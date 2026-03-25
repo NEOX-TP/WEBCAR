@@ -1,2 +1,4 @@
 # WEBCAR
-Repositori number o
+Repositori number one
+cd PROVA
+dir
